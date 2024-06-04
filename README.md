@@ -3,7 +3,7 @@
     gerenciar o cadastro dos livros da loja, de forma que os endpoints da API sejam responsáveis.
 
 </p>
-<a href="https://livraria-apirest.herokuapp.com/">Web app</a>
+<a href="link">Web app</a>
 
 <h2>Inicialização</h2>
 
